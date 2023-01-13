@@ -1,0 +1,33 @@
+맨위 margin:170.5px 0 104px
+
+h1 font-size:45px;font-family:kopubB;color:#ce0e2d
+li font-size:15px;font-family:kopubL;color:#ce0e2d;opacity:0.9
+상품카테고리 가운데 선 
+height:11px;width:1px;background:#ce0e2d; margin: 0 42px
+
+
+contents3 width:1687px; margin:0 auto
+상품배경
+padding:33.25px 21.6842px 37.2852px 21.6842px 
+사진-상품명-가격 margin: 20.1318px 0 30.3359px 0
+상품 크기 width:316px;height:542px
+사진크기 width:272.8px;height:365.5px
+상품끼리 여백 27px
+상품명 세로크기42px
+
+아이콘 크기
+width:54.7642px;height:54.7642px;
+position:absolute;
+top:188.6205 px;
+left:97.5499 px;
+
+1234
+font-size:20px;font-family:kopubB;
+font-size:17.05px;
+font-family:kopubM;
+padding-top:68px;
+margin: 0 auto;
+
+hover
+background:rgba(255,197,87,0.2)
+background:rgba(255,255,255,0.6) 흰

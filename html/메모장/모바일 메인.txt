@@ -1,0 +1,145 @@
+헤더
+height:101px
+
+메뉴
+height:2px
+width:44px
+
+로고
+width:264px;
+height:61px;
+
+왼쪽 아이콘
+height:37.2px;
+
+-메뉴
+width:438.5px;
+height:1360px;
+padding: 63px 194.2px 397px 84px
+메뉴안 컨텐츠
+width:205px;
+height:900px;
+x
+width:35.6px;
+height:35.6px;
+margin-bottom: 109.8px
+1뎁스
+font-famaily:garamond bold;
+font-size:63px;
+color:#ce0e2d;
+margin-bottom:40px;
+2뎁스
+font-famaily:garamond regular;
+font-size:27.7px;
+margin-bottom:144.3px
+2뎁스리스트끼리 여백
+margin-bottom:31.7px
+
+배너
+height:1011px;
+밑에 내비
+on
+height:21px;
+width:21px;
+기본
+height:15px;
+width:15px;
+
+베스트
+margin: 20px 75px;
+BEST
+font-family:garamond bold;
+font-size:40px;
+margin-bottom: 28px;
+상품
+이미지
+width:226px;
+height:303px;
+상품명+가격
+font-family:kopubM
+font-size:15px
+상품명
+margin: 14.5px 0 20.6px 0
+가격
+margin-bottom:36px;
+바
+height:9.5px;
+안에 검은바
+width:calc(100%/5)
+
+신상품 영상
+영역
+width:596px;
+background: #fbd275
+영상
+width:
+밑에 배너
+height:162px;
+font-family:kopubB
+p:first-of-type{font-size:15px;}
+h2{font-size:20px;margin:14.6px 0}
+p:last-of-type{font-size:10px;}
+
+new
+영역
+margin: 75px 20px;
+height:468px;
+NEW
+font-family:garamond bold
+font-size:40px;
+margin-bottom:53px;
+신상품 리스트
+height:375.6px;
+각각 리스트
+width:224.3px;
+height:375.6px;
+margin-right:16px;
+사진
+width:100%;
+height:286px;
+상품명+가격
+font-family:kopubM;
+font-size:15px;
+상품명
+margin:19.6px 0 36.8px 0
+
+브랜드스토리
+height:260px;
+font-family:garamond bold
+-brandstory
+font-size:40px;
+margin-bottom:25.8px
+-view more
+font-size:16.86px;
+width:114.8px;
+height:29.5px
+
+푸터
+전체
+height:414.4px;
+-컨텐츠 영역
+height:274.1px;
+padding: 50px 265.5px 0 20px
+-brand/shop/offers
+font-family:garamond bold
+margin-right:20px;
+사이에 바
+height:23.457px
+width:2px
+-contactus
+margin: 36.74px 0 20px 0
+font-size: 25px
+bold
+-번호
+font-size:18px;
+-그밑에세줄
+font-size:16px;
+margin-bottom:15px
+마지막줄
+margin:0 12px 33.3px 0
+-아이콘
+width:38.7;
+margin-right:10px
+-카피라이터
+height:47px;
+font-size:12.6px;

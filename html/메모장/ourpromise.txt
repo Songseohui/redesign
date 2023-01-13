@@ -1,0 +1,56 @@
+OUR PROMISE
+
+OUR VALUES
+일상 생활에서 쉽게 낭비를 줄일 수 있도록 노력합니다.
+우리는 우리가 사용하는 모든 재료와 사용하지 않은 재료에 대해 많은 생각을 합니다.
+우리는 새로운 재료와 불필요한 포장을 피하고, 모든 포장이 재활용되거나 재사용할 수 있는지 확인합니다.
+
+UNPACKED : LIPBALM
+식물성 잉크를 사용하려 라벨을 인쇄합니다.
+당신이 립밤을 다 쓰게된다면 TerraCycle로 용기를 재활용할 수 있습니다.
+우리는 플라스틱 용기에 평균적으로 52%의 재활용품(PCR)을 넣어서 제작합니다.
+
+OUR STANDARDS
+우리가 살아가기 위해 필요한 모든 것은 자연에서 나옵니다.
+자연을 보호하고 내일을 위해 보존하는 것은 선택 사항이 아닙니다.
+
+NATURE SUPPORTS US. WE SUPPORT NATURE.
+모든 사람들이 자원을 더 이롭게 사용하는 법을 찾을 수 있습니다.
+
+RE-WILDING EFFORTS
+자연지역 연구/보호야생화 심기와 토지관리 등의 활동을 통해 생물다양성 증진
+LANDFILL-FREE OPERATIONS
+모든 운영 폐기물 NO 매립
+용기 폐기물 DOWN 재활용재료 활용률 UP
+CARBONNEUTRAL CERTIFICATION
+탄소격리프로젝트에 투자
+2015년부터 탄소중립 인증 유지
+
+INGREDIENTS
+FROM NATURE
+
+NO ANIMAL 
+TESTING
+
+RESPONSIBLE
+SOURSING
+
+RECYCLABLE
+WITH TERRACYCLE
+
+배경 rgba(0,0,0,0.5)
+벌로고 width:154.5px
+영어 큰제목 kopubB 50px
+한글 내용 kopuM 20px 사이 여백 26px
+큰제목 내용 사이 여백 68px
+작은 박스 3개랑 내용 사이 여백 68px
+박스 사이 여백 37px
+박스크기 width: 547.7px; height: 290px;
+border-radius 25px
+박스안에 소제목 kopubB 30px
+박스안에 내용 여백 18px
+박스안 소제목 내용 사이 여백 52px
+
+
+중간 하얀막대기1 height: 745px;width:2px 
+중간 하얀막대기2 height: 695.5px;width:2px 

@@ -1,0 +1,7 @@
+font-family: 'EB Garamond', serif;
+
+노랑색
+#ffc557
+
+자주색
+#ce0e2d

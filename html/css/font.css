@@ -1,0 +1,12 @@
+@font-face {
+  font-family: kopubB;
+  src:url("../KOPUB/KoPubWorld Batang Bold.ttf")
+}
+@font-face {
+  font-family: kopubM;
+  src:url("../KOPUB/KoPubWorld Batang Medium.ttf")
+}
+@font-face {
+  font-family: kopubL;
+  src:url("../KOPUB/KoPubWorld Batang Light.ttf")
+}

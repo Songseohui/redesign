@@ -1,0 +1,26 @@
+왼쪽 117px
+로고 left 64px width 343px
+푸터왼 가로 217px
+푸터왼 오른쪽 마진 273px
+주소 폰트크기 17.7px 행간 21.24px
+
+푸터오
+오른쪽 마진 159px
+sns 마진 26px
+sns offers 마진 75px
+brand 메뉴 사이 마진 25px
+메뉴사이사이 마진 24px
+brand 폰트 사이즈 20px bold
+menu 폰트 사이즈 15px
+영어는 다 garamond bold
+
+배경색
+노랑
+#FFC557
+카피라이터배경 
+rgba(211,159,66,0.6)
+
+카피라이터
+글씨체 맑은고딕
+크기 18px
+불투명도 89px
