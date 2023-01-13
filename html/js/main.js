@@ -1,4 +1,7 @@
 $(document).ready(function(){
+  $(".topgoR").click(function(){
+    $("html,body").animate({scrollTop:0},500)
+  })
   $(".INGREDIENTS,.best_4,.mainall,.contents5").on("mousewheel DOMMouseScroll",function(event){
     let E = event.originalEvent;
     let delta = 0;
@@ -42,8 +45,6 @@ $(document).ready(function(){
       });
 
   //베스트리스트
-
-
   let count1 = 0;
   let slides = 10;
   let views = 5;
